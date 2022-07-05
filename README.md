@@ -1,3 +1,8 @@
+**📮 email**：n1celll@163.com 
+
+**📒 blog**：<a href='https://django.pub' target="_blank">理想三旬</a>
+
+=======================================
 
 **💪 Python**：擅长
 
@@ -14,5 +19,4 @@
 **✊ Linux**：熟悉 
 
 
-### 👉 <a href='https://django.pub' target="_blank">理想三旬</a>
-### 不要温和地走进那个良夜。
+
